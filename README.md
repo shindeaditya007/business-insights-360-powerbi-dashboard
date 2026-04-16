@@ -135,7 +135,7 @@ This project intentionally incorporates advanced, real-world techniques:
 
 ### 🚚 Supply Chain View
 
-![Supply Chain](Screenshots/Supply_Chain.png)
+![Supply Chain](Screenshots/Supply Chain.png)
 
 ### 👔 Executive View
 
