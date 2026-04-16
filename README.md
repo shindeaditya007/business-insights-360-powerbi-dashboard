@@ -119,27 +119,27 @@ This project intentionally incorporates advanced, real-world techniques:
 
 ### 🏠 Home Page
 
-![Home](Screenshots/Home.png)
+![Home](Screenshots/home.png)
 
 ### 💰 Finance View
 
-![Finance](Screenshots/Finance.png)
+![Finance](Screenshots/finance.png)
 
 ### 📈 Sales View
 
-![Sales](Screenshots/Sales.png)
+![Sales](Screenshots/sales.png)
 
 ### 📊 Marketing View
 
-![Marketing](Screenshots/Marketing.png)
+![Marketing](Screenshots/marketing.png)
 
 ### 🚚 Supply Chain View
 
-![Supply Chain](Screenshots/Supply Chain.png)
+![Supply Chain](Screenshots/supply_Chain.png)
 
 ### 👔 Executive View
 
-![Executive](Screenshots/Executive.png)
+![Executive](Screenshots/executive.png)
 
 ---
 
